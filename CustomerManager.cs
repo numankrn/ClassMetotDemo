@@ -12,8 +12,8 @@ namespace ClassMetotDemo
             Console.WriteLine("----------Müşteri Eklendi!----------");
             Console.WriteLine("Müşteri Numarası :" + "\t\t" + customers.Id);
             Console.WriteLine("Müşteri Adı-Soyadı :" + "\t\t" + customers.Name + " " + customers.Surname);
-            Console.WriteLine("Müşteri TC Kimlik Numarası :" + "\t" + customers.IdentityNumber);
-            Console.WriteLine("\n");
+            Console.WriteLine("Müşteri TC Kimlik Numarası :" + "\t" + customers.IdentityNumber + "\n");
+            
 
         }
 
@@ -23,8 +23,8 @@ namespace ClassMetotDemo
             Console.WriteLine("----------Müşteri Silindi!----------");
             Console.WriteLine("Müşteri Numarası :" + "\t\t" + customers.Id);
             Console.WriteLine("Müşteri Adı-Soyadı :" + "\t\t" + customers.Name + " " + customers.Surname);
-            Console.WriteLine("Müşteri TC Kimlik Numarası :" + "\t" + customers.IdentityNumber);
-            Console.WriteLine("\n");
+            Console.WriteLine("Müşteri TC Kimlik Numarası :" + "\t" + customers.IdentityNumber + "\n");
+            
 
         }
 
@@ -33,8 +33,8 @@ namespace ClassMetotDemo
             Console.WriteLine("----------Müşteri Listelendi!----------");
             Console.WriteLine("Müşteri Numarası :" + "\t\t" + customers.Id);
             Console.WriteLine("Müşteri Adı-Soyadı :" + "\t\t" + customers.Name + " " + customers.Surname);
-            Console.WriteLine("Müşteri TC Kimlik Numarası :" + "\t" + customers.IdentityNumber);
-            Console.WriteLine("\n");
+            Console.WriteLine("Müşteri TC Kimlik Numarası :" + "\t" + customers.IdentityNumber + "\n");
+            
         }
 
 
